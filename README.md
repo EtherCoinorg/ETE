@@ -1,4 +1,4 @@
-# [Parity For EthGold](https://ethgold.io/) - fast, light, and robust Ethereum Gold client
+# [Parity For Ethercoin](https://ethercoin.org/) - fast, light, and robust Ethercoin client
 
 <h2 align="center">The Fastest and most Advanced Ethereum Client.</h2>
 
